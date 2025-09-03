@@ -32,5 +32,6 @@ _A short video or gif of the joystick-controlled prototype will be added here._
 
 ---
 
-<img width="2879" height="1672" alt="Screenshot 2025-09-01 204048" src="https://github.com/user-attachments/assets/86b1b5f3-db50-4256-9124-8f8561cdffaf" />
+<img width="2879" height="1603" alt="Screenshot 2025-09-01 204048" src="https://github.com/user-attachments/assets/19bcf919-013e-47e6-aae9-cc6056de17de" />
+
 
