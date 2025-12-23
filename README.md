@@ -2,6 +2,13 @@
 
 This is a **prototype version** of my fully automated ball balancer.  
 It uses **joystick control** to test the **mechanical design** and **mathematical model** before moving to camera-based automation.
+---
+### 🎥 Prototype Validation – Joystick Control
+
+This video demonstrates joystick-based manual control of the ball balancing platform, used to validate the mechanical design, servo actuation, and overall system responsiveness before implementing camera-based automatic control.
+
+
+https://github.com/user-attachments/assets/dbf4d340-a9e2-4d80-8a82-80d05f0a7c8b
 
 ---
 
@@ -27,11 +34,5 @@ It uses **joystick control** to test the **mechanical design** and **mathematica
 
 ---
 
-## 📷 Demo (Coming Soon!)
-_A short video or gif of the joystick-controlled prototype will be added here._
-
----
-
-<img width="2879" height="1603" alt="Screenshot 2025-09-01 204048" src="https://github.com/user-attachments/assets/b4a6f9a7-edf7-4d01-b5cc-902383263029" />
 
 
